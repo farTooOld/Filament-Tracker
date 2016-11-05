@@ -1,6 +1,8 @@
 # Filament-Tracker
 An App for Tracking Fused Filament (for 3D Printing)
 
+This is a Preliminary release of the app (11/5/2016)
+
 *** OVERVIEW ***
 
 [ Double mouse Click = DC ]
