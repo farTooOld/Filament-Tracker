@@ -32,7 +32,7 @@ Unzip the file to a desired location (recommend it’s own Folder).  Unzipping s
 ##** RUNNING the APP **
 
 DC the FFtracker.jar to run it.
-It should open and indicate it’s using the ‘homeboy’ table but, the table is not fully committed yet, DC ‘homeboy’ in the Current Tables list panel to fully commit it.
+It should open and indicate it’s using the ‘homeboy’ table but, the table is not yet fully committed;  Click Table Manager, then, click List Tables, then, DC ‘homeboy’ in the Current Tables list panel to fully commit it.
 
 Although you can use ‘homeboy’, I recommend leaving it alone. Your real goal is to have Tables for each ‘thing’ you want to track, Examples:
 * eSun_pla_BLK
