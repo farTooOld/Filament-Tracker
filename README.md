@@ -25,7 +25,7 @@ This is a Java-coded app and should run on All computers.  It was specifically i
 Unzip the file to a desired location (recommend it’s own Folder).  Unzipping should generate 4 (four) files:
 * FFTracker.jar  - the App
 * OUTfile_homeboy.txt  - default Table used by the App
-* dufuss - the database
+* dufuss.db - the database
 * icns & .png    - icns (icon for OSX,) or use the .png for other systems or make your own
 * (Note: if you delete 'homeboy' you'll need to re-create it ! )
 
