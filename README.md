@@ -3,7 +3,7 @@ An App for Tracking Fused Filament (for 3D Printing)
 
 This is a Preliminary release of the app (11/5/2016)
 
-*** OVERVIEW ***
+##** OVERVIEW **
 
 [ Double mouse Click = DC ]
 
@@ -18,7 +18,7 @@ Consider these Use options:
 Printing your results / Table:
 Click ‘Table Manager’, DC desired Table from Current Tables and Click the “Write .txt File”  - this generates a standard .txt file to open in your favorite Text Editor / App . The filename will be “ OUTfile_your_Table’s_Name.txt “ and is located in the app’s folder.
 
-*** INSTALLING the APP ***
+##** INSTALLING the APP **
 
 This is a Java-coded app and should run on All computers.  It was specifically intended for Java 8 (1.8, to be correct) but was also tested in Java 7, Runtime Environments (JRE).
 
@@ -29,7 +29,7 @@ OUTfile_homeboy.txt  - default Table used by the App
 icns & .png    - icns (icon for OSX,) or use the .png for other systems or make your own
 (Note: if you delete 'homeboy' you'll need to re-create it ! )
 
-*** RUNNING the APP ***
+##** RUNNING the APP **
 
 DC the FFtracker.jar to run it.
 It should open and indicate it’s using the ‘homeboy’ table but, the table is not fully committed yet, DC ‘homeboy’ in the Current Tables list panel to fully commit it.
