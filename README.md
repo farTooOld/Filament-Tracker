@@ -38,6 +38,5 @@ Although you can use ‘homeboy’, I recommend leaving it alone. Your real goal
 * eSun_pla_BLK
 * Makerbot_abs_GRY
 * Checking Acount
-* Joints Smoked (yeah, I live in Oregon)
 
 Thus, for each ‘thing’, simply Create New Table.  (Note: if you create a New Table with an existing name, it will overwrite the data in the table. This is a Good Thing since you may want to keep the tablename but start afresh without actually doing the typing…). You can delete Tables by entering the TableName and clicking Delete.
