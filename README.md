@@ -2,6 +2,7 @@
 An App for Tracking Fused Filament (for 3D Printing)
 
 Release of the app (11/17/2016)
+Edit the Help text (11/23/2016)
 
 ##** OVERVIEW **
 
